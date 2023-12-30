@@ -1,0 +1,211 @@
+header {
+    background-color: #014E56;
+}
+
+.container-fluid{
+    padding: 20px;
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+
+.find-class {
+    background-color: #014E56;
+    padding-bottom: 150px;
+    background-image: url(/svg/Group\ 8.svg),url(/svg/Group\ 7.svg);
+    background-repeat: no-repeat;
+    background-position: left 0px top 0px,bottom 0 right 50px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.active {
+    color: white !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.find-text {
+    width: 100%;
+    max-width: 300px;
+    font-size: 50px;
+    font-weight: bolder;
+    /* border: 1px solid green; */
+    color: white;
+}
+
+.lorem2 {
+    width: 100%;
+    max-width: 350px;
+    color: white;
+    /* border: 1px solid red; */
+}
+
+.build {
+    padding: 100px 0;
+    background-color: #012F34;
+    background-image: url(/svg/Group\ 8\ \(1\).svg);
+    background-repeat: no-repeat;
+    background-position: bottom 0 right 0;
+}
+
+.build-text {
+    width: 100%;
+    max-width: 430px;
+    font-size: 45px;
+    color: white;
+}
+
+.lorems {
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+}
+
+.build-lorem-texts {
+    margin-left: 10px;
+}
+
+.build-title {
+    color: coral;
+}
+
+.build-lorem {
+    color: white;
+}
+
+.experienced-display {
+    gap: 30px;
+}
+
+.delivering {
+    background-image: url(/svg/Group\ 8\ Copy.svg);
+    background-repeat: no-repeat;
+    background-position: top 0 left 0;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    background-color: #004047;
+}
+
+.delivering-all {
+    width: 100%;
+    max-width: 1300px;
+    text-align: center;
+    margin: auto;
+}
+
+.delivering-text {
+    width: 100%;
+    max-width: 1000px;
+    font-weight: bolder;
+    text-align: center !important;
+    margin: auto;
+    font-size: 48px;
+    color: white;
+}
+
+.delivering-div {
+    width: 100%;
+    max-width: 380px;
+    margin-top: 100px;
+    padding-top: 30px !important;
+    background-image:  url(/svg/“.svg);
+    background-repeat: no-repeat;
+    background-position: left 170px top 0px;
+}
+
+.delivering-kady {
+    margin-top: 40px;
+    color: #79C8C7;
+}
+
+.kady-text {
+    color: white;
+}
+
+.delivering-texts {
+    line-height: 30px;
+    color: white;
+}
+
+article {
+    background-image: url(/svg/Group\ 8\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-position: bottom 0 left 0;
+    padding: 50px 0;
+    background-color: #F67E7E;
+}
+
+.article-text {
+    font-weight: bolder;
+    font-size: 48px;
+    color: #012F34;
+}
+
+.article-button {
+    width: 153px;
+    height: 48px;
+    font-weight: bolder;
+    background-color: #F67E7E;
+    border-color: #012F34;
+    color: #012F34;
+    border-radius: 30px;
+}
+
+footer {
+    padding: 30px 0;
+    background-color: #002529;
+}
+
+.footer-text {
+    font-weight: bolder;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.footer-links {
+    width: 140px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-link {
+    width: 100%;
+    max-width: 150px;
+}
+
+.footer-link a {
+    text-decoration: none;
+    color: gray;
+}
+
+.footer-copyright {
+    color: white;
+    margin-top: 30px;
+}
+
+.footer-display {
+    gap: 30px;
+}
+
+.footer-icons {
+    border: 1px solid green;
+}
+
+.brend-icon {
+    margin-left: auto !important;
+    color: white;
+}
