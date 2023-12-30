@@ -1,0 +1,78 @@
+header {
+    padding-top: 30px;
+    background-color: #014E56;
+}
+
+.header-color {
+    background-color: #014E56 !important;
+}
+
+.navbar-text {
+    color: white;
+}
+
+.section1 {
+    padding-top: 170px;
+    padding-bottom: 100px;
+    background-color: #014E56;
+    background-image: url(/svg/Group\ 8\ \(3\).svg);
+    background-repeat: no-repeat;
+    background-position: bottom 0 right 0;
+}
+
+.about-text {
+    font-size: 64px;
+    color: white;
+}
+
+.about-lorem {
+    width: 100%;
+    max-width: 670px;
+    padding-top: 50px !important;
+    background-image: url(/svg/Rectangle.svg);
+    background-repeat: no-repeat;
+    background-position: top 0 left 8px;
+    font-size: 18px;
+    color: white;
+}
+
+.section2 {
+    background-image: url(/svg/Group\ 8\ \(4\).svg);
+    background-repeat: no-repeat;
+    background-position: top 0 left 0;
+    background-color: #004047;
+}
+
+.meet-display {
+    width: 100%;
+    max-width: 1400px;
+    padding-top: 60px;
+    gap: 60px 0;
+    margin: auto;
+}
+
+.meet-directors {
+    text-align: center;
+    font-size: 48px;
+    padding-top: 200px;
+    color: white;
+}
+
+.meet-list {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    padding: 25px 0;
+    background-image: url(/svg/Group\ 13.svg);
+    background-repeat: no-repeat;
+    background-position: bottom 0 left 50%;
+    background-color: #012F34;
+}
+
+.meet-nikita {
+    color: white;
+}
+
+.meet-text {
+    color: white;
+}
