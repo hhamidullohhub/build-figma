@@ -57,6 +57,7 @@ main {
 
 .textarea-text {
     min-width: 500px;
-    /* min-height: 200px; */
+    min-height: 100px;
+    background-color: #014E56;
     max-height: 200px;
 }
