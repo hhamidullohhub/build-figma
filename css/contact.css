@@ -1,0 +1,21 @@
+header {
+    background-color: #014E56;
+}
+
+.nav-nav {
+    background-color: #014E56 !important;
+}
+
+.input {
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.forms {
+    line-height: 50px;
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid red;
+}
