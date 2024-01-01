@@ -6,11 +6,24 @@ header {
     background-color: #014E56 !important;
 }
 
+main {
+    background-color: #014E56;
+}
+
 .input {
     width: 100%;
+    margin-top: 20px;
     border-top: none;
     border-left: none;
     border-right: none;
+    background-color: #014E56;
+    color: white;
+}
+
+.quality-text {
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
 }
 
 .forms {
@@ -18,4 +31,32 @@ header {
     width: 100%;
     max-width: 600px;
     border: 1px solid red;
+}
+
+.contact-all {
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid red;
+}
+
+.quality-list {
+    width:100%;
+    max-width: 420px;
+    border: 1px solid green;
+}
+
+.contact-title {
+    font-size: 50px;
+    color: white;
+}
+
+.ask-text {
+    font-size: 30px;
+    color: #F67E7E;
+}
+
+.textarea-text {
+    min-width: 500px;
+    /* min-height: 200px; */
+    max-height: 200px;
 }
