@@ -1,4 +1,5 @@
 header {
+    padding-top: 50px;
     background-color: #014E56;
 }
 
@@ -8,6 +9,14 @@ header {
 
 main {
     background-color: #014E56;
+}
+
+.myteam-text {
+    color: white !important;
+}
+
+.section1 {
+    padding-top: 150px;
 }
 
 .input {
