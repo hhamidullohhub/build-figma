@@ -11,12 +11,20 @@ main {
     background-color: #014E56;
 }
 
-.myteam-text {
-    color: white !important;
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
 }
 
 .section1 {
     padding-top: 150px;
+    background-image: url(/svg/Group\ 8\ \(4\).svg);
+    background-repeat: no-repeat;
+    background-position: top 150px left 0;
+    border: 1px solid red;
 }
 
 .input {
@@ -45,13 +53,12 @@ main {
 .contact-all {
     width: 100%;
     max-width: 600px;
-    /* border: 1px solid red; */
+    
 }
 
 .quality-list {
     width:100%;
     max-width: 420px;
-    /* border: 1px solid green; */
 }
 
 .contact-title {
@@ -71,4 +78,41 @@ main {
     border-top: none;
     border-left: none;
     border-right: none;
+}
+
+.section-button-link {
+    font-weight: bolder;
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50px;
+    border: none;
+}
+
+footer {
+    background-color: #002529;
+}
+
+.myteam-text {
+    color: white;
+}
+
+.myteam-link {
+    text-decoration: none;
+    color: white;
+}
+
+.list-all {
+    border: 1px solid red;
+}
+
+.list-link {
+    width: 100%;
+    max-width: 200px;
+    text-decoration: none;
+    border: 1px solid green;
+    color: white;
+}
+
+.footer-icon-all {
+    color: white;
 }
