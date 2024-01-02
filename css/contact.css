@@ -9,6 +9,7 @@ header {
 
 main {
     background-color: #014E56;
+    padding-bottom: 50px;
 }
 
 .navbar-brand {
@@ -88,6 +89,7 @@ main {
 }
 
 footer {
+    padding: 50px;
     background-color: #002529;
 }
 
