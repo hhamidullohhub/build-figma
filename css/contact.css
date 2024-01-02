@@ -24,7 +24,6 @@ main {
     background-image: url(/svg/Group\ 8\ \(4\).svg);
     background-repeat: no-repeat;
     background-position: top 150px left 0;
-    border: 1px solid red;
 }
 
 .input {
@@ -101,15 +100,10 @@ footer {
     color: white;
 }
 
-.list-all {
-    border: 1px solid red;
-}
-
 .list-link {
     width: 100%;
     max-width: 200px;
     text-decoration: none;
-    border: 1px solid green;
     color: white;
 }
 
